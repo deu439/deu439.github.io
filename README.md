@@ -1,7 +1,7 @@
 _This web page is evolving. More information about the papers, such as links to preprins and code, will be added soon._
 
 ## About me:
-I am currently working as a post-doc researcher at the Institute of Telecommunications, Brno University of Technology. My research revolves around Bayesian inference and machine learning applied to computer vision and image processing problems.
+I am a postdoc researcher at the Institute of Telecommunications, Brno University of Technology. My research revolves around Bayesian inference and machine learning applied to computer vision and image processing problems.
 
 ## List of my publications:
 
