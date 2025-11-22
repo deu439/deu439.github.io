@@ -8,7 +8,7 @@ I am a postdoc researcher at the Institute of Telecommunications, Brno Universit
 
 <ul>
 <li>M. Jonák, J. Dorazil, V. Myška, R. Burget, a M. Kotrlý, „Classification of mineral phases in unpolished samples using a transformer neural network", in Proc. ICUMT, Florence, Italy, lis. 2025, s. 170–175.
-<div align="right"><b><a href="https://github.com/deu439/ICUMT-2025/blob/28b135452218ec53d477b5cce732a122151c7e88/preprint.pdf">preprint</a>&emsp;<a href="https://github.com/deu439/ICUMT-2025">source code</a>&emsp;&emsp;&emsp;</b></div>
+<div align="right"><b><a href="https://github.com/deu439/ICUMT-2025/blob/28b135452218ec53d477b5cce732a122151c7e88/preprint.pdf">preprint</a>&emsp;<a href="https://github.com/deu439/ICUMT-2025">source code</a></b></div>
 </li>
 </ul>
 
