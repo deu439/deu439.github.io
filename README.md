@@ -8,11 +8,20 @@ I am a postdoc researcher at the Institute of Telecommunications, Brno Universit
 
 <ul>
 <li>M. Jonák, J. Dorazil, V. Myška, R. Burget, a M. Kotrlý, „Classification of mineral phases in unpolished samples using a transformer neural network", in Proc. ICUMT, Florence, Italy, lis. 2025, s. 170–175.
-<div align="right"><b><a href="https://github.com/deu439/ICUMT-2025/blob/28b135452218ec53d477b5cce732a122151c7e88/preprint.pdf">preprint</a>&emsp;<a href="https://github.com/deu439/ICUMT-2025">source code</a></b></div>
+<div align="right"><b>
+<a href="https://github.com/deu439/ICUMT-2025/blob/28b135452218ec53d477b5cce732a122151c7e88/preprint.pdf">preprint</a>&emsp;
+<a href="https://github.com/deu439/ICUMT-2025">source code</a>&emsp;
+<a href="https://github.com/deu439/ICUMT-2025/tree/28b135452218ec53d477b5cce732a122151c7e88/data">synthetic data</a>&emsp;&emsp;
+</b></div>
+</li>
+<li>J. Dorazil, B. H. Fleury, and F. Hlawatsch, ‘Fast Bayesian estimation using location-type variational representations’, in Proc. EUSIPCO, Italy, Palermo, May 2025.
+<div align="right"><b>
+<a href="https://github.com/deu439/EUSIPCO-2025/blob/69cb733b2a6c6a3c161e0a82e430a2fa5a5eba3d/preprint.pdf">preprint</a>&emsp;
+<a href="https://github.com/deu439/EUSIPCO-2025">source code</a>&emsp;&emsp;
+</b></div>
 </li>
 </ul>
 
-* J. Dorazil, B. H. Fleury, and F. Hlawatsch, ‘Fast Bayesian estimation using location-type variational representations’, in Proc. EUSIPCO, Italy, Palermo, May 2025.
 * M. Luňáková, J. Dorazil, M. Jonák, Š. Ježek, and R. Burget, ‘Pen Ink Library: An interactive database of writing instruments based on Vis-NIR reflection spectra and optical properties of inks’, Forensic Sci. Int., May 2025, [doi: 10.1016/j.forsciint.2025.112508.](https://doi.org/10.1016/j.forsciint.2025.112508)
 * M. Jonák, J. Dorazil, M. Kolařík, Š. Ježek, R. Burget, and M. Kotrlý, ‘Forensic comparison of soil particles using Gaussian mixture models and likelihood ratio test’, in Proc. ICUMT, Ghent, Belgium, Oct. 2023, pp. 188–192. [doi: 10.1109/ICUMT61075.2023.10333101.](https://doi.org/10.1109/ICUMT61075.2023.10333101)
 * J. Dorazil, B. H. Fleury, and F. Hlawatsch, ‘Bayesian methods for optical flow estimation using a variational approximation, with applications to ultrasound’, in Proc. ICASSP, Rhodes, Greece, Jun. 2023, pp. 1–5. [doi: 10.1109/ICASSP49357.2023.10095694.](https://doi.org/10.1109/ICASSP49357.2023.10095694)
