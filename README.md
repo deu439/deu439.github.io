@@ -16,7 +16,7 @@ I am a postdoc researcher at the Institute of Telecommunications, Brno Universit
 </li>
 <li>J. Dorazil, B. H. Fleury, and F. Hlawatsch, ‘Fast Bayesian estimation using location-type variational representations’, in Proc. EUSIPCO, Italy, Palermo, May 2025.
 <div align="right"><b>
-<a href="https://github.com/deu439/EUSIPCO-2025/blob/69cb733b2a6c6a3c161e0a82e430a2fa5a5eba3d/preprint.pdf">preprint</a>&emsp;
+<a href="https://github.com/deu439/EUSIPCO-2025/blob/4c028f1a8cd70952ff9df9f17579237fddfde83d/paper.pdf">paper</a>&emsp;
 <a href="https://github.com/deu439/EUSIPCO-2025">source code</a>&emsp;&emsp;
 </b></div>
 </li>
